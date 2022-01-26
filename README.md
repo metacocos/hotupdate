@@ -1,4 +1,4 @@
->微信订阅号：creator游戏开发社区<Br/>
+>微信订阅号：creator游戏开发<Br/>
 >微信服务号：Golang语言游戏服务器<Br/>
 >承接游戏外包：联系彬哥(微信：cserli)<Br/>
 >[本框架的谷歌play游戏下载地址(游戏中包含谷歌支付及谷歌广告)](https://play.google.com/store/apps/details?id=com.byteedu.crazydice)
