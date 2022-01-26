@@ -1,5 +1,4 @@
-# cocos creator 热更新流程（2.4.3版本）
-creator游戏开发社区  致力于分享Cocos creator游戏开发知识，涉及到基础、进阶、提高等... ...
+cocos creator 热更新流程（2.4.3版本），creator游戏开发社区致力于分享Cocos creator游戏开发知识，涉及到基础、进阶、提高等... ...
 >微信订阅号：creator游戏开发社区<Br/>
 >微信服务号：Golang语言游戏服务器<Br/>
 >承接游戏外包：联系彬哥(微信：cserli)<Br/>
