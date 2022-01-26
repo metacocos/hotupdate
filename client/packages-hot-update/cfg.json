@@ -1,0 +1,12 @@
+{
+    "version": "",
+    "serverRootDir": "http://172.16.1.130",
+    "resourceRootDir": "D:\\binge\\bundle-update-main\\build\\jsb-link",
+    "genManifestDir": "",
+    "hotAddressArray": [
+        "http://172.16.1.130"
+    ],
+    "buildTime": 1643176030728,
+    "genTime": 1643176030728,
+    "genVersion": null
+}
