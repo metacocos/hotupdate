@@ -2,7 +2,7 @@ var fs = require('fs');
 var path = require('path');
 var crypto = require('crypto');
 
-var remoteUrl = 'http://172.16.1.130:8080/Byte/base/';
+var remoteUrl = 'http://127.0.0.1:8080/Byte/base/';
 
 var manifest = {
     packageUrl: remoteUrl,
