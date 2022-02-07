@@ -8,11 +8,11 @@
 --------------
 WwW.Golang.Ltd
 
-LollipopGo框架交流群
+Creator游戏开发交流群
 -----------
-955259501
+552042911
 
-Go语言交流群
+Go语言游戏服务器开发交流群
 ----------
 221273219
 
@@ -22,7 +22,7 @@ Go语言交流群
 [腾讯专栏](https://cloud.tencent.com/developer/column/2170)
 
 
-creator游戏开发社区
+creator游戏开发社区-游戏服务器框架
 -----------
 
 <ol>
